@@ -1,4 +1,4 @@
-FROM selenium/sessions:4.8.0-20230202
+FROM selenium/sessions:4.8.1-20230221
 
 USER root
 
